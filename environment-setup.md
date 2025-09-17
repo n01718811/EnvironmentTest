@@ -4,9 +4,7 @@
 * OS & build: **Windows 11 Pro 23H2 
 * CPU / RAM: **Intel Core i9-13900KF / 32 GB**
 * Free storage: **1TB**
-* Virtualization: **On**
-* JAVA\_HOME: `C:\Program Files\Android\Android Studio\jbr`
-* Android SDK: `%LOCALAPPDATA%\Android\Sdk`
+
 
 ## 2) Versions  
 
